@@ -5,6 +5,7 @@
 //  Created by Asher Abrams on 2018/1/22.
 //  Copyright © 2018 Asher Abrams. All rights reserved.
 //  2018K29 05:35.  This code generates a list of Fibonacci numbers.
+//  2018L03 19:08.  Created in Xcode.
 //
 
 #include <iostream>

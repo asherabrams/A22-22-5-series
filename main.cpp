@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  A22-2112-series
+//  
 //
 //  Created by Asher Abrams on 2018/1/22.
 //  Copyright © 2018 Asher Abrams. All rights reserved.
